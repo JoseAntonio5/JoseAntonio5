@@ -1,4 +1,4 @@
-### Olá! Eu sou José Antônio!
+### Olá! 👋 Eu sou José Antônio!
 
 - 📚 Estudante de Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ)
 - 📚 Estudante de Tecnologia em Sistemas para Internet na faculdade Senac
