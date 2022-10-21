@@ -1,9 +1,9 @@
-### Olá! 👋 Eu sou José Antônio!
+## Hi, I'm José Antônio! 👋
 
-- 📚 Estudante de Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ)
-- 📚 Estudante de Tecnologia em Sistemas para Internet na faculdade Senac
-- 🔭 Estagiário na UFSJ
-- 👨‍💻 Aprendendo e trabalhando com desenvolvimento web (front-end e back-end)
+- 📚 Computer Science Student at the Federal University of São João del-Rei (UFSJ)
+- 📚 Technology in Internet Systems Student at Senac University Center
+- 🔭 Working on an internship at Computer Science Department at Federal University of São João Del Rei
+- 👨‍💻 Passionate about working and studying web development (front-end and back-end)
 - 📫 Email: jlopespaiva00@gmail.com
 
 ##
