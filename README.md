@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
 
-- 📚 Computer Science Student at the Federal University of São João del-Rei (UFSJ)
-- 📚 Technology in Internet Systems Student at Senac University Center
-- 🔭 Working on an internship at Computer Science Department at Federal University of São João Del Rei
+- 🎓 Computer Science Student at the Federal University of São João del-Rei (UFSJ)
+- 🎓 Technology in Internet Systems Student at Senac University Center
+- 💼 Working on an internship at Computer Science Department at Federal University of São João Del Rei
 - 👨‍💻 Passionate about working and studying web development (front-end and back-end)
 - 📫 Email: jlopespaiva00@gmail.com
 
