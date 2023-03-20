@@ -4,9 +4,7 @@
 
 - 🎓 Computer Science Student at the Federal University of São João del-Rei (UFSJ)
 - 🎓 Technology in Internet Systems Student at Senac University Center
-- 💼 Working on an internship at Computer Science Department at Federal University of São João Del Rei
-- 💼 Working on an internship at Badaboo
-- 👨‍💻 Passionate about working and studying web development (front-end and back-end)
+- 👨‍💻 Working with web development (front-end and back-end)
 - 📫 Email: jlopespaiva00@gmail.com
 
 ##
