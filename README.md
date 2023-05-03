@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
 
 - 🎓 Computer Science Student at the Federal University of Viçosa (UFV)
-- 🎓 Technology in Internet Systems Student at Senac University Center
+- 🎓 Senac University Center - B.S., Technology in Internet Systems
 - 👨‍💻 Working with web development (front-end and back-end)
 - 📫 Email: jlopespaiva00@gmail.com
 
