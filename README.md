@@ -2,6 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
 
+### About Me
+I am a web developer with over 5 years of experience in both front-end and back-end development. I have experience creating and using REST APIs, working with object-oriented programming languages (OOP) and following SOLID principles. I have skills working with both relational and non-relational databases. My approach is always focused on finding efficient and high-quality solutions while utilizing the best practices for clean code development.
+
+I aim to specialize in the technology field, continuously acquiring knowledge and skills to stay competitive in the job market and add value to my profession. I am driven to achieve professional fulfillment by becoming a programmer whose approaches their responsibilities with both proficiency and genuine enthusiasm.
+
+##
+
 - 🎓 Computer Science Student at the Federal University of Viçosa (UFV)
 - 🎓 Senac University Center - B.S., Technology in Internet Systems
 - 👨‍💻 Working with Web Development (Front-End and Back-End)
