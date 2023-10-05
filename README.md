@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
 
 ### About Me
-I am a web developer with over 5 years of experience in both front-end and back-end development. My approach is always focused on finding efficient and high-quality solutions while utilizing the best practices for clean code development.
+I am a web developer with over 4 years of experience in both front-end and back-end development. My approach is always focused on finding efficient and high-quality solutions while utilizing the best practices for clean code development.
 
 I aim to specialize in the technology field, continuously acquiring knowledge and skills to stay competitive in the job market and add value to my profession. I am driven to achieve professional fulfillment by becoming a programmer whose approaches their responsibilities with both proficiency and genuine enthusiasm.
 
@@ -12,6 +12,7 @@ I aim to specialize in the technology field, continuously acquiring knowledge an
 - 🎓 Computer Science Student at the Federal University of Viçosa (UFV)
 - 🎓 Senac University Center - B.S., Technology in Internet Systems
 - 👨‍💻 Working with Web Development (Front-End and Back-End)
+- 💼 Junior Full Stack Developer at CPT Softwares
 - 📫 Email: jlopespaiva00@gmail.com
 
 ##
@@ -31,6 +32,8 @@ I aim to specialize in the technology field, continuously acquiring knowledge an
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
