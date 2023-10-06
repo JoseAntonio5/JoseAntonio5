@@ -1,14 +1,12 @@
 ## Hi, I'm José Antônio! 👋
 
-<div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
-</div>
-<div>
-  ### About Me
-  I am a web developer with over 4 years of experience in both front-end and back-end development. My approach is always focused on finding efficient and high-quality solutions while utilizing the best practices for clean code development.
-  
-  I aim to specialize in the technology field, continuously acquiring knowledge and skills to stay competitive in the job market and add value to my profession. I am driven to achieve professional fulfillment by becoming a programmer whose approaches their responsibilities with both proficiency and genuine enthusiasm.
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
+
+### About Me
+I am a web developer with over 4 years of experience in both front-end and back-end development. My approach is always focused on finding efficient and high-quality solutions while utilizing the best practices for clean code development.
+
+I aim to specialize in the technology field, continuously acquiring knowledge and skills to stay competitive in the job market and add value to my profession. I am driven to achieve professional fulfillment by becoming a programmer whose approaches their responsibilities with both proficiency and genuine enthusiasm.
+
 ##
 
 - 🎓 Computer Science Student at the Federal University of Viçosa (UFV)
