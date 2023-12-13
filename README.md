@@ -12,7 +12,7 @@ I aim to specialize in the technology field, continuously acquiring knowledge an
 - 🎓 Computer Science Student at the Federal University of Viçosa (UFV)
 - 🎓 Senac University Center - B.S., Technology in Internet Systems
 - 👨‍💻 Working with Web Development (Front-End and Back-End)
-- 💼 Junior Full Stack Developer at CPT Softwares
+- 💼 Full Stack Developer at CPT Softwares
 - 📫 Email: jlopespaiva00@gmail.com
 
 ##
