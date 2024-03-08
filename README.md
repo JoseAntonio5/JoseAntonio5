@@ -3,15 +3,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
 
 ### About Me
-I am a web developer with over 3 years of experience in both front-end and back-end development. My approach is always focused on finding efficient and high-quality solutions while utilizing the best practices for clean code development.
+I am a developer with over 3 years of experience in both front-end and back-end development. My approach is always focused on finding efficient and high-quality solutions while utilizing the best practices for clean code development.
 
 I aim to specialize in the technology field, continuously acquiring knowledge and skills to stay competitive in the job market and add value to my profession. I am driven to achieve professional fulfillment by becoming a programmer whose approaches their responsibilities with both proficiency and genuine enthusiasm.
 
 ##
 
-- 🎓 Computer Science Student at the Federal University of Viçosa (UFV)
+- 🎓 Computer Engineer Student at the Univiçosa University Center
 - 🎓 Senac University Center - B.S., Technology in Internet Systems
-- 👨‍💻 Working with Web Development (Front-End and Back-End)
+- 👨‍💻 Working with Full Stack Web Development (Front-End and Back-End)
 - 📫 Email: jlopespaiva00@gmail.com
 
 ##
