@@ -2,6 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="210px" max-width="210px" width="210px" align="right" alt="Computador iuriCode">
 
+### Check Me On: 
+<a href="josepaiva.dev">josepaiva.com</a>
+
 ### About Me
 Fullstack Developer with over 4 years of experience. Currently specializing in both front-end and back-end development. I focus on finding efficient, high-quality solutions while utilizing the best practices for clean code development, following SOLID principles and implementing software development patterns to ensure code quality and maintainability.
 
